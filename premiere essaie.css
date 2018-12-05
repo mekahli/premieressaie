@@ -1,0 +1,25 @@
+header{
+	color: pink
+}
+body{
+	background-color: green
+}
+h2{
+	font-style: italic;
+}
+h1{
+	font-style: italic;
+}
+.classBlue{
+	font-weight: bold;
+	font-size: 42px;
+	color: darkblue;
+}
+img{
+	position: center;
+	display: ;
+}
+.img-milieu{
+	text-align: center;
+}
+
